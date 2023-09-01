@@ -1,6 +1,6 @@
 # smart_home_ui
 
-A new Flutter project.
+**Smart Home UI App** is a Flutter-based mobile application that allows users to control various smart home devices and appliances from their smartphones. This README provides an overview of the project and instructions on how to set it up and use it.
 
 ## Getting Started
 
