@@ -6,9 +6,9 @@
 The Flutter Smart Home UI project is a single-page user interface (UI) template for building smart home control apps in Flutter. This project offers a basic UI foundation for controlling smart home devices such as lights, thermostats, cameras, and more. It aims to provide a straightforward starting point for developers looking to create a simple smart home control interface.
 
 # Features
-- Device Control: Control various smart home devices.
+- Device Control: Control a variety of smart home devices.
 - Responsive Design: Adapted for both mobile and tablet devices.
-- User Authentication: Implement user authentication for device access.
+- User-Friendly Interface: An easy-to-navigate UI for device control.
 
 ## Getting Started
 
